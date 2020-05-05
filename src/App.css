@@ -1,0 +1,21 @@
+body{
+  background-color: #2F363F;
+  
+}
+.grid{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  
+}
+
+.box{
+  width: auto;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon{
+  font-size: 35px;
+  color: #ffffff;
+}
